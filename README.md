@@ -29,12 +29,16 @@ We'll end the session by building a small app that:
 
 ### Documentation
 - [axios](https://github.com/axios/axios)
-- [nasa api](https://api.nasa.gov)
+- [nasa apis](https://api.nasa.gov) - we will be using the api for the NASA Image and Video Library
+- [nasa images api docs](https://images.nasa.gov/docs/images.nasa.gov_api_docs.pdf)
 - [movie database api](https://developers.themoviedb.org/3/getting-started/introduction)
+- [postman docs](https://learning.postman.com/docs/getting-started/introduction)
 
 ### Additional Resources
 - [Asynchronous Code](https://academind.com/tutorials/callbacks-vs-promises-vs-rxjs-vs-async-awaits/)
 - [API Rate Limiting](https://nordicapis.com/everything-you-need-to-know-about-api-rate-limiting/)
+- [Understanding and Using REST APIs](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
+- [Codecademy: Create a backend app with javascript](https://www.codecademy.com/learn/paths/create-a-back-end-app-with-javascript)
 
 ### Contact info
 - [antoniablair@gmail.com](mailto:antoniablair@gmail.com)
