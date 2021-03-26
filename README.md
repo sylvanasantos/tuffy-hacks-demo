@@ -39,6 +39,7 @@ We'll end the session by building a small app that:
 - [API Rate Limiting](https://nordicapis.com/everything-you-need-to-know-about-api-rate-limiting/)
 - [Understanding and Using REST APIs](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
 - [Codecademy: Create a backend app with Javascript](https://www.codecademy.com/learn/paths/create-a-back-end-app-with-javascript)
+- [A free public APIs list](https://github.com/public-apis/public-apis)
 
 ### Contact info
 - [antoniablair@gmail.com](mailto:antoniablair@gmail.com)
